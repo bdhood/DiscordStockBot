@@ -1,6 +1,8 @@
 # build artifacts
 DiscordStockBot/bin/
 DiscordStockBot/obj/
+ThreeFourteen.Finnhub.Client/bin
+ThreeFourteen.Finnhub.Client/obj
 
 # vs cache/options
 .vs/

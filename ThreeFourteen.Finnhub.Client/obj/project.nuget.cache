@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIFJ0U4/kqrwJL97+xr0IXgBEmf88sjSwdebi9xUAxJyOV8cjgnkxWFVEuxmPyPiYC79DSNyXaXecVlgmcfIbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoodb\\Desktop\\DiscordStockBot\\ThreeFourteen.Finnhub.Client\\ThreeFourteen.Finnhub.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoodb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hoodb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\hoodb\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

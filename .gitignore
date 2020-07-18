@@ -1,0 +1,6 @@
+# build artifacts
+DiscordStockBot/bin/
+DiscordStockBot/obj/
+
+# vs cache/options
+.vs/

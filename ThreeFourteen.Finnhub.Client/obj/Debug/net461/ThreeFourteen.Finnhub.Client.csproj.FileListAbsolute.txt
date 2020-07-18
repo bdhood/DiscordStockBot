@@ -1,0 +1,10 @@
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\bin\Debug\net461\ThreeFourteen.Finnhub.Client.dll
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\bin\Debug\net461\ThreeFourteen.Finnhub.Client.pdb
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\obj\Debug\net461\ThreeFourteen.Finnhub.Client.AssemblyInfoInputs.cache
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\obj\Debug\net461\ThreeFourteen.Finnhub.Client.AssemblyInfo.cs
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\obj\Debug\net461\ThreeFourteen.Finnhub.Client.csproj.CoreCompileInputs.cache
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\obj\Debug\net461\ThreeFourteen.Finnhub.Client.csproj.CopyComplete
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\obj\Debug\net461\ThreeFourteen.Finnhub.Client.dll
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\obj\Debug\net461\ThreeFourteen.Finnhub.Client.pdb
+C:\Users\hoodb\Desktop\DiscordStockBot\ThreeFourteen.Finnhub.Client\obj\Debug\net461\ThreeFourteen.Finnhub.Client.csprojAssemblyReference.cache

@@ -20,22 +20,6 @@ namespace Discord_Bot.src.Modules.Commands
 {
     public class Commands : BaseCommandModule
     {
-
-        [Command("help")]
-        public async Task StockHelp(CommandContext ctx)
-        {
-            await ctx.Channel.SendMessageAsync("```\n" + Bot.prefix + string.Join(Bot.prefix, 
-                new string[] { 
-                    "counter [@user]\n", 
-                    "counter++\n",
-                    "dict add <word>\n", 
-                    "dict rm <word>\n", 
-                    "dict list\n", 
-                    "dict list [n]\n",
-                    "help\n",
-                }) + "```");
-        }
-
         [Command("stocks")]
         [Aliases("stonks")]
         [Description("Lists of symbols")]
